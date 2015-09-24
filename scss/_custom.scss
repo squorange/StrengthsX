@@ -22,7 +22,9 @@ header {
 		border: 3px solid $black;
 		color: $white;
 	}
-	.button:hover {
+	.button:hover,
+	.button:active,
+	.button:visited {
 		background: none;
 		color: $black;
 	};
@@ -47,7 +49,9 @@ header {
 	border: 3px solid $ag-yellow;
 	color: $black;
 }
-.button:hover {
+.button:hover,
+.button:active,
+.button:visited {
 	background: none;
 	color: $ag-yellow;
 };
@@ -58,14 +62,14 @@ header {
 }
 
 .block-taster {
-	background: url(../assets/images/background-group01.jpg) center center;
+	background: url(../assets/images/background-group01.jpg) center center $oil;
 	background-size: cover;
 	padding-top: $space2;
 	padding-bottom: $space2;
 }
 
 .block-contact {
-	background: url(../assets/images/background-group02.jpg) center center;
+	background: url(../assets/images/background-group02.jpg) center center $oil;
 	background-size: cover;	
 	padding-top: $space4;
 	padding-bottom: $space4;

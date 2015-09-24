@@ -6342,7 +6342,9 @@ header {
     background: #000000;
     border: 3px solid #000000;
     color: #FFFFFF; }
-  header .button:hover {
+  header .button:hover,
+  header .button:active,
+  header .button:visited {
     background: none;
     color: #000000; }
 
@@ -6363,7 +6365,9 @@ header {
   border: 3px solid #FDDB45;
   color: #000000; }
 
-.button:hover {
+.button:hover,
+.button:active,
+.button:visited {
   background: none;
   color: #FDDB45; }
 
@@ -6372,13 +6376,13 @@ header {
   margin-bottom: 4rem; }
 
 .block-taster {
-  background: url(../assets/images/background-group01.jpg) center center;
+  background: url(../assets/images/background-group01.jpg) center center #333333;
   background-size: cover;
   padding-top: 4rem;
   padding-bottom: 4rem; }
 
 .block-contact {
-  background: url(../assets/images/background-group02.jpg) center center;
+  background: url(../assets/images/background-group02.jpg) center center #333333;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem; }
