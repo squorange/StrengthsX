@@ -1,0 +1,117 @@
+
+hr {
+	border-bottom: 6px solid black;
+}
+
+// VARIABLES
+
+$font-bold:	'FranklinGothicLTCom-Md', 'Franklin Gothic Medium', Arial, sans-serif;
+$space: 2rem;
+$space2: $space * 2;
+$space3: $space * 3;
+$space4: $space * 4;
+
+
+// STRUCTURE
+
+header {
+	margin-top: $space;
+	margin-bottom: $space;
+	.button {
+		background: $black;
+		border: 3px solid $black;
+		color: $white;
+	}
+	.button:hover {
+		background: none;
+		color: $black;
+	};
+}
+
+.header__logo {
+	margin-bottom: $space2;
+}
+.header__banner {
+	margin-bottom: $space;
+}
+
+.space {
+	margin-bottom: $space;
+}
+.space2 {
+	margin-bottom: $space2;
+}
+
+.button {
+	background: $ag-yellow;
+	border: 3px solid $ag-yellow;
+	color: $black;
+}
+.button:hover {
+	background: none;
+	color: $ag-yellow;
+};
+
+.block {
+	margin-top: $space2;
+	margin-bottom: $space2;
+}
+
+.block-taster {
+	background: url(../assets/images/background-group01.jpg) center center;
+	background-size: cover;
+	padding-top: $space2;
+	padding-bottom: $space2;
+}
+
+.block-contact {
+	background: url(../assets/images/background-group02.jpg) center center;
+	background-size: cover;	
+	padding-top: $space4;
+	padding-bottom: $space4;
+}
+
+footer {
+	margin-bottom: $space2;
+}
+
+// TYPOGRAPHY
+
+h1 {
+	font-size: 1.5rem;
+	font-family: $font-bold;
+}
+
+.text--center {
+	text-align: center;
+}
+
+.text--bold {
+	font-family: $font-bold;
+}
+
+.text--blurb {
+	font-size: 1.5rem;
+}
+
+.button {
+	font-family: $font-bold;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+}
+
+.block {
+	color: $ag-yellow;
+	h1 {
+		color: $ag-yellow;
+	}
+	p {
+		a {
+		color: $ag-yellow;
+		border-bottom: 1px dotted $ag-yellow;
+		}
+		a:hover, a:active {
+		border-bottom: 1px solid $ag-yellow;
+		}
+	}
+}

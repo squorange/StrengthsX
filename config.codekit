@@ -2,6 +2,171 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19051",
 "files": {
+	"\/assets\/images\/background-group01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52289,
+		"inputAbbreviatedPath": "\/assets\/images\/background-group01.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/background-group01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/background-group02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49984,
+		"inputAbbreviatedPath": "\/assets\/images\/background-group02.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/background-group02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/header-dear.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10160,
+		"inputAbbreviatedPath": "\/assets\/images\/header-dear.png",
+		"outputAbbreviatedPath": "\/assets\/images\/header-dear.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/header-logos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4541,
+		"inputAbbreviatedPath": "\/assets\/images\/header-logos.png",
+		"outputAbbreviatedPath": "\/assets\/images\/header-logos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-embed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6973,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-embed.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-embed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-embrace.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6123,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-embrace.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-embrace.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-empower.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6529,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-empower.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-empower.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-encompass.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5111,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-encompass.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-encompass.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-energize.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6150,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-energize.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-energize.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-engage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5966,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-engage.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-engage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-enrich.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4810,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-enrich.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-enrich.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/icon-envision.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6629,
+		"inputAbbreviatedPath": "\/assets\/images\/icon-envision.png",
+		"outputAbbreviatedPath": "\/assets\/images\/icon-envision.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/logo-ag.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5952,
+		"inputAbbreviatedPath": "\/assets\/images\/logo-ag.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logo-ag.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/logo-sx.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7765,
+		"inputAbbreviatedPath": "\/assets\/images\/logo-sx.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logo-sx.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/logomark-sx.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6430,
+		"inputAbbreviatedPath": "\/assets\/images\/logomark-sx.png",
+		"outputAbbreviatedPath": "\/assets\/images\/logomark-sx.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -6217,6 +6382,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6269,6 +6443,22 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/scss\/_custom.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/_custom.scss",
+		"outputAbbreviatedPath": "\/css\/_custom.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/scss\/_settings.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -6278,6 +6468,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/_settings.scss",
 		"outputAbbreviatedPath": "\/css\/_settings.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/_webfonts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/_webfonts.scss",
+		"outputAbbreviatedPath": "\/css\/_webfonts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
